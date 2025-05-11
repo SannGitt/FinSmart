@@ -35,9 +35,10 @@ To run this project locally, follow these steps:
 ### Steps
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/FinSmart.git
+   git clone https://github.com/SannGitt/FinSmart.git
+   
    cd FinSmart
-2. Install the required dependencies:
+3. Install the required dependencies:
    pip install -r requirements.txt
 
    Set up your API keys for the relevant services. Replace the placeholders with actual API keys in the corresponding files:
@@ -45,7 +46,7 @@ To run this project locally, follow these steps:
    Reddit API Key
    Other necessary keys for sentiment analysis and financial data fetching.
 
-3. Run the Streamlit app:
+4. Run the Streamlit app:
    streamlit run main.py
    Open your browser and go to http://localhost:8501 to see the app in action!
 
