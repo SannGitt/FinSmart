@@ -47,7 +47,9 @@ To run this project locally, follow these steps:
    Other necessary keys for sentiment analysis and financial data fetching.
 
 4. Run the Streamlit app:
+   
    streamlit run main.py
+   
    Open your browser and go to http://localhost:8501 to see the app in action!
 
 ## Usage
